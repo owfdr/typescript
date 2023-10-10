@@ -1,0 +1,13 @@
+{
+  "name": "import-with-node-16-or-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build:es6": "tsc --module es6 main.ts",
+    "build:node16": "tsc --module node16 main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
